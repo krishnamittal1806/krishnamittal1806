@@ -50,10 +50,14 @@
 
 ### ⟢ &nbsp;Contributions
 
+<img src="https://streak-stats.demolab.com?user=krishnamittal1806&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=8957E5&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&sideNums=C9D1D9&currStreakNum=ffffff" width="70%" alt="streak"/>
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/krishnamittal1806/krishnamittal1806/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishnamittal1806/krishnamittal1806/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/krishnamittal1806/krishnamittal1806/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/krishnamittal1806/krishnamittal1806/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
 </div>
