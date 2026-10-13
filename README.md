@@ -17,20 +17,22 @@
 
 ### ◆ &nbsp;Stack
 
-[![Skills](https://skillicons.dev/icons?i=java,spring,cpp,js,postgres,mysql,redis,kafka,docker,git&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,spring,kafka,docker,postgres,mysql,redis,py,fastapi,cpp,git&perline=11)](https://skillicons.dev)
 
 </div>
 
 ---
 
-### ▸ &nbsp;Projects
+### ▸ &nbsp;Featured Projects & Contributions
 
-| &nbsp; | Project | Stack |
-|:---:|:---|:---|
-| [↗](https://github.com/krishnamittal1806/AI-Usage-Analytics) | **[AI Usage Analytics](https://github.com/krishnamittal1806/AI-Usage-Analytics)** &nbsp; Distributed Kafka event pipeline | `Java 21` `Spring Boot` `Kafka` `Docker` |
-| [↗](https://github.com/krishnamittal1806/jobpilot) | **[JobPilot](https://github.com/krishnamittal1806/jobpilot)** &nbsp; Job discovery & resume intelligence backend | `Java 21` `Spring Boot` `PostgreSQL` `Redis` |
-| [↗](https://github.com/krishnamittal1806/CSAO-Advanced-Recommendation-System-) | **[CSAO](https://github.com/krishnamittal1806/CSAO-Advanced-Recommendation-System-)** &nbsp; Cart add-on recommender · Zomato hackathon | `Python` `FastAPI` `LightGBM` |
-| [↗](https://github.com/krishnamittal1806/Portfolio) | **[Portfolio](https://github.com/krishnamittal1806/Portfolio)** &nbsp; Personal site — [portfolio-krishnamittal.vercel.app](https://portfolio-krishnamittal.vercel.app) | `TypeScript` `React` `Vercel` |
+| &nbsp; | Project | Description & Contributions | Stack |
+|:---:|:---|:---|:---|
+| [↗](https://github.com/krishnamittal1806/AI-Usage-Analytics) | **[AI Usage Analytics](https://github.com/krishnamittal1806/AI-Usage-Analytics)** | Distributed event-driven analytics pipeline tracking AI usage events in real-time | `Java 21` `Spring Boot` `Kafka` `Docker` |
+| [↗](https://github.com/krishnamittal1806/jobpilot) | **[JobPilot](https://github.com/krishnamittal1806/jobpilot)** | Intelligent job aggregation & resume intelligence backend platform | `Java 21` `Spring Boot` `PostgreSQL` `Redis` |
+| [↗](https://github.com/rishabh392004/Krishi-Darpan) | **[Krishi Darpan](https://github.com/rishabh392004/Krishi-Darpan)** &nbsp;[🔗 Demo](https://agri-bharat-pgpc.vercel.app) | Multilingual AI farm advisory & diagnostics (SIH 2026) · **Core Contributor (22 commits)** | `FastAPI` `PostgreSQL` `Docker` `Next.js` |
+| [↗](https://github.com/rishabh392004/HybridLLM) | **[HybridLLM](https://github.com/rishabh392004/HybridLLM)** | Extreme-weather forecast blending & alert engine · **Lead Contributor (11 commits)** | `FastAPI` `Redis` `PostgreSQL` `Docker` |
+| [↗](https://github.com/krishnamittal1806/CSAO-Advanced-Recommendation-System-) | **[CSAO](https://github.com/krishnamittal1806/CSAO-Advanced-Recommendation-System-)** | Cart Super Add-On ranking engine · Zomato Hackathon | `Python` `FastAPI` `LightGBM` |
+| [↗](https://github.com/krishnamittal1806/Portfolio) | **[Portfolio](https://github.com/krishnamittal1806/Portfolio)** &nbsp;[🔗 Live](https://portfolio-krishnamittal.vercel.app) | Personal portfolio site showcasing engineering journey | `TypeScript` `React` `Vercel` |
 
 ---
 
@@ -38,7 +40,7 @@
 
 ### ⟡ &nbsp;Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishnamittal1806&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8957E5&text_color=C9D1D9&rank_icon=github&hide=contribs" width="46%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=krishnamittal1806&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8957E5&text_color=C9D1D9&rank_icon=github&include_all_commits=true" width="46%"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamittal1806&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=5" width="38%"/>
 
